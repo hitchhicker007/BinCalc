@@ -1,7 +1,15 @@
 # BinCalc
-  Developer    |  Hitch Hicker,
-  ABOUT TOOL   |  This is Binary calculator. Which allows you to performe operation at Binary level,
-  REQUIREMENTS |  Python3 ,
-  USE          |  python3 BinCalc.py ,
-  THANK YOU!!!
-  
+python script for perform operations of binary numbers.
+
+### Requirements:
+python3
+
+### Usage:
+```
+git clone https://github.com/hitchhicker007/BinCalc.git
+cd BinCalc
+python BinCalc.py
+```
+
+### Screenshot:
+![DEMO](ss.jpeg)
